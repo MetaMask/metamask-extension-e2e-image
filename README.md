@@ -1,0 +1,1 @@
+# metamask-extension-e2e-image
