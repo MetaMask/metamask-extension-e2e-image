@@ -4,7 +4,7 @@ This image is built for running MetaMask Extension end-to-end (E2E) tests.
 It includes:
 
 - Node 24.13 (with browsers)
-- Yarn 4.10.3 (via Corepack)
+- Yarn 4.12.0 (via Corepack)
 - zstd compression tool
 - Xvfb for headless GUI environments
 
